@@ -30,6 +30,5 @@ npm run build
 "# profile-resume" 
 "# profile-resume" 
 
-
 ## Start a new project
 Check on [Setup Guide for Vue.js 3 + Vuetify + Pinia](https://github.com/gitRedgieGravador/setup-guides/blob/main/vue/vue3-vuetify.md)
